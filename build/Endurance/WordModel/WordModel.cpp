@@ -1,0 +1,1 @@
+/home/vboxuser/gem5-nvmain-final/NVmain/Endurance/WordModel/WordModel.cpp
